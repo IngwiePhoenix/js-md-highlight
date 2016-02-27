@@ -22,6 +22,10 @@
     color: #008c00;
 }
 
+.md-bcode > code {
+    display: inline;
+}
+
 .md-listitem-symbol,
 .md-blockquote-symbol {
     color: #93a1a1;
@@ -67,4 +71,8 @@
 
 .md-icode {
     color: #008c00;
+}
+
+.md-mention {
+    color: #9933CC;
 }
